@@ -1,16 +1,17 @@
-### Hi there 👋 This is Mitesh Jethva
+# Hi there 👋, I'm Mitesh Jethva!
 
-<!--
-**Mitesh315/Mitesh315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java developer with a focus on backend development using Spring Boot. Currently, I'm building efficient REST APIs and exploring new ways to optimize application performance.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, SQL
+- **Frameworks**: Spring Boot, Spring Security
+- **Tools**: Maven, Git, Postman
+- **Other**: JPA, JDBC Template, REST API development
+- **Fontend tech**: HTML, CSS, JS, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Spring Security and Hibernate to expand my backend expertise.
+
+## 📬 Connect with Me
+- Email: [jetmitesh@gmail.com](mailto:jetmitesh@gmail.com)
+- LinkedIn: [linkedin.com/in/mitesh-jethva](https://linkedin.com/in/mitesh-jethva/)
